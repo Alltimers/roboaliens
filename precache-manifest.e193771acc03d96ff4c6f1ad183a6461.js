@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "edef7cd6e675474cf9bccf06a277dc99",
+    "revision": "49ed1e7a319b11039ea6a8f4217feea6",
     "url": "/roborama/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/roborama/static/css/2.a94b31b9.chunk.css"
   },
   {
-    "revision": "44a1cbeade9e09c4494b",
-    "url": "/roborama/static/css/main.a51f4972.chunk.css"
+    "revision": "c3dbff7c07b00cb2d237",
+    "url": "/roborama/static/css/main.3b77baa6.chunk.css"
   },
   {
     "revision": "5a9a0f3abf674d6a38e0",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/roborama/static/js/3.68d536b4.chunk.js"
   },
   {
-    "revision": "44a1cbeade9e09c4494b",
+    "revision": "c3dbff7c07b00cb2d237",
     "url": "/roborama/static/js/main.df6bf2a4.chunk.js"
   },
   {

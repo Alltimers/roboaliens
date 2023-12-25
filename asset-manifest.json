@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/roborama/static/css/main.a51f4972.chunk.css",
+    "main.css": "/roborama/static/css/main.3b77baa6.chunk.css",
     "main.js": "/roborama/static/js/main.df6bf2a4.chunk.js",
     "main.js.map": "/roborama/static/js/main.df6bf2a4.chunk.js.map",
     "runtime~main.js": "/roborama/static/js/runtime~main.f725a23b.js",
@@ -11,10 +11,10 @@
     "static/js/3.68d536b4.chunk.js": "/roborama/static/js/3.68d536b4.chunk.js",
     "static/js/3.68d536b4.chunk.js.map": "/roborama/static/js/3.68d536b4.chunk.js.map",
     "index.html": "/roborama/index.html",
-    "precache-manifest.b244deebbcb2a398502692cf9de92a8e.js": "/roborama/precache-manifest.b244deebbcb2a398502692cf9de92a8e.js",
+    "precache-manifest.e193771acc03d96ff4c6f1ad183a6461.js": "/roborama/precache-manifest.e193771acc03d96ff4c6f1ad183a6461.js",
     "service-worker.js": "/roborama/service-worker.js",
     "static/css/2.a94b31b9.chunk.css.map": "/roborama/static/css/2.a94b31b9.chunk.css.map",
-    "static/css/main.a51f4972.chunk.css.map": "/roborama/static/css/main.a51f4972.chunk.css.map",
+    "static/css/main.3b77baa6.chunk.css.map": "/roborama/static/css/main.3b77baa6.chunk.css.map",
     "static/media/App.css": "/roborama/static/media/fr-title.411ef14d.woff"
   }
 }
