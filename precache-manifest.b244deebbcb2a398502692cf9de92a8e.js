@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "23943da3a05c1a7cb865e75140abf701",
+    "revision": "edef7cd6e675474cf9bccf06a277dc99",
     "url": "/roborama/index.html"
   },
   {
-    "revision": "53b1bcb21090e81e6e4e",
+    "revision": "5a9a0f3abf674d6a38e0",
     "url": "/roborama/static/css/2.a94b31b9.chunk.css"
   },
   {
-    "revision": "c82da628eb43165fe039",
-    "url": "/roborama/static/css/main.b5d5b6ab.chunk.css"
+    "revision": "44a1cbeade9e09c4494b",
+    "url": "/roborama/static/css/main.a51f4972.chunk.css"
   },
   {
-    "revision": "53b1bcb21090e81e6e4e",
-    "url": "/roborama/static/js/2.986c73ef.chunk.js"
+    "revision": "5a9a0f3abf674d6a38e0",
+    "url": "/roborama/static/js/2.a4c9d763.chunk.js"
   },
   {
-    "revision": "7373c6e4eb6af1a9d439",
-    "url": "/roborama/static/js/3.ba8b7f13.chunk.js"
+    "revision": "6c4bfe61775909bc4616",
+    "url": "/roborama/static/js/3.68d536b4.chunk.js"
   },
   {
-    "revision": "c82da628eb43165fe039",
-    "url": "/roborama/static/js/main.915c9254.chunk.js"
+    "revision": "44a1cbeade9e09c4494b",
+    "url": "/roborama/static/js/main.df6bf2a4.chunk.js"
   },
   {
-    "revision": "1195b12eb95b7dc2d3e5",
-    "url": "/roborama/static/js/runtime~main.6c4243c8.js"
+    "revision": "5340ed8dbdc37398d21f",
+    "url": "/roborama/static/js/runtime~main.f725a23b.js"
   },
   {
     "revision": "c55ff0a4b73fd394622c34af1bbb2d1e",
