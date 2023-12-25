@@ -35,9 +35,23 @@
         color:#0ccac4;
     }
 
-    p {
+    h5 {
         font-family: 'Futurama Alien Alphabet One';
-        color:  #00111F;
+        font-weight: normal;
+    } 
+
+    h6 {
+        font-weight: normal;
+    }
+
+    #titleMargin {
+        margin-bottom: 0px;
+    }
+
+    #alienTitleMargin {
+        margin-top: 0px;
+        margin-bottom: 0px;
+
     }
 
     

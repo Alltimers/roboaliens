@@ -39,8 +39,8 @@ class App extends Component {
 		<h1 className='tc'>Loading</h1> :
 		(
 			<div className='tc'>
-				<h1 className='f1'>ROBORAMA</h1>
-				<p className='f2'>roborama</p>
+				<h1 className='f1' id='titleMargin'>ROBORAMA</h1>
+				<h5 className='f2' id='alienTitleMargin'>roborama</h5>
 				<SearchBox id='round' searchChange={this.onSearchChange}/>
 				<Scroll>
 					<ErrorBoundry>
