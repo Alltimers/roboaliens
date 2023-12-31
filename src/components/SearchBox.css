@@ -1,8 +1,8 @@
 #round {
 /*    width: 100%;*/
     border-radius: 15px;
-    background: rgba(12, 202, 196, 0.2);
-/*    border: 1px #000 solid;*/
+    background: rgba(132, 215, 225, 0.2);
+    border: 1px rgba(132, 215, 225, 0.5) solid;
     padding: 5px 5px 7px 15px;
     margin: 10px;
 /*    position: absolute;*/
@@ -12,10 +12,10 @@
 }
 
 ::placeholder {
-  color: rgba(12, 202, 196);
+  color: rgba(132, 215, 225, 0.5);
   opacity: 1; /* Firefox */
 }
 
 ::-ms-input-placeholder { /* Edge 12 -18 */
-  color: rgba(12, 202, 196);
+  color: rgba(132, 215, 225, 0.5);
 }

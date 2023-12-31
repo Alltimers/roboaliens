@@ -7,6 +7,7 @@ import '../components/SearchBox.css';
 import './App.css';
 
 
+
 // the RULE:
 // PROPS are simply things that come out of STATE, so a parent feeds STATE into
 // a child component and as soon as the child component receives a 'state', it's a 'property'(PROP)
@@ -39,8 +40,8 @@ class App extends Component {
 		<h1 className='tc'>Loading</h1> :
 		(
 			<div className='tc'>
-				<h1 className='f1' id='titleMargin'>ROBORAMA</h1>
-				<h5 className='f2' id='alienTitleMargin'>roborama</h5>
+				<h1 className='f1' id='titleMargin'>Robo<span>Aliens</span></h1>
+				<h5 className='f2' id='alienTitleMargin'><span>RoboA</span>liens</h5>
 				<SearchBox id='round' searchChange={this.onSearchChange}/>
 				<Scroll>
 					<ErrorBoundry>

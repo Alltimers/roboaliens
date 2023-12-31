@@ -32,16 +32,32 @@
     h1 {
         font-family: 'Futurama Bold Font';
         font-weight: 200;
-        color:#0ccac4;
+        color:#84D7E1FF;
     }
 
     h5 {
         font-family: 'Futurama Alien Alphabet One';
         font-weight: normal;
+        color: #ADE2D0FF;
     } 
 
     h6 {
         font-weight: normal;
+    }
+
+    p {
+        font-family: 'Futurama Alien Alphabet One';
+        color: #3D3B25FF;;
+    }
+
+    span {
+        color: #FF6348FF;
+    }
+
+    li {
+        display: list-item;
+        font-size: 1rem;
+
     }
 
     #titleMargin {
@@ -49,9 +65,10 @@
     }
 
     #alienTitleMargin {
+        color: #84D7E1FF;
         margin-top: 0px;
         margin-bottom: 0px;
-
     }
+
 
     
