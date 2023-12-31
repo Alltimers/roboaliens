@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/roborama/static/css/main.3b77baa6.chunk.css",
-    "main.js": "/roborama/static/js/main.df6bf2a4.chunk.js",
-    "main.js.map": "/roborama/static/js/main.df6bf2a4.chunk.js.map",
-    "runtime~main.js": "/roborama/static/js/runtime~main.f725a23b.js",
-    "runtime~main.js.map": "/roborama/static/js/runtime~main.f725a23b.js.map",
-    "static/css/2.a94b31b9.chunk.css": "/roborama/static/css/2.a94b31b9.chunk.css",
-    "static/js/2.a4c9d763.chunk.js": "/roborama/static/js/2.a4c9d763.chunk.js",
-    "static/js/2.a4c9d763.chunk.js.map": "/roborama/static/js/2.a4c9d763.chunk.js.map",
-    "static/js/3.68d536b4.chunk.js": "/roborama/static/js/3.68d536b4.chunk.js",
-    "static/js/3.68d536b4.chunk.js.map": "/roborama/static/js/3.68d536b4.chunk.js.map",
-    "index.html": "/roborama/index.html",
-    "precache-manifest.e193771acc03d96ff4c6f1ad183a6461.js": "/roborama/precache-manifest.e193771acc03d96ff4c6f1ad183a6461.js",
-    "service-worker.js": "/roborama/service-worker.js",
-    "static/css/2.a94b31b9.chunk.css.map": "/roborama/static/css/2.a94b31b9.chunk.css.map",
-    "static/css/main.3b77baa6.chunk.css.map": "/roborama/static/css/main.3b77baa6.chunk.css.map",
-    "static/media/App.css": "/roborama/static/media/fr-title.411ef14d.woff"
+    "main.css": "/roboaliens/static/css/main.be3f1e37.chunk.css",
+    "main.js": "/roboaliens/static/js/main.8a59e665.chunk.js",
+    "main.js.map": "/roboaliens/static/js/main.8a59e665.chunk.js.map",
+    "runtime~main.js": "/roboaliens/static/js/runtime~main.b03557d8.js",
+    "runtime~main.js.map": "/roboaliens/static/js/runtime~main.b03557d8.js.map",
+    "static/css/2.a94b31b9.chunk.css": "/roboaliens/static/css/2.a94b31b9.chunk.css",
+    "static/js/2.a4c9d763.chunk.js": "/roboaliens/static/js/2.a4c9d763.chunk.js",
+    "static/js/2.a4c9d763.chunk.js.map": "/roboaliens/static/js/2.a4c9d763.chunk.js.map",
+    "static/js/3.68d536b4.chunk.js": "/roboaliens/static/js/3.68d536b4.chunk.js",
+    "static/js/3.68d536b4.chunk.js.map": "/roboaliens/static/js/3.68d536b4.chunk.js.map",
+    "index.html": "/roboaliens/index.html",
+    "precache-manifest.3a42e1e86f49a2ba5a88cbf2c4caf44e.js": "/roboaliens/precache-manifest.3a42e1e86f49a2ba5a88cbf2c4caf44e.js",
+    "service-worker.js": "/roboaliens/service-worker.js",
+    "static/css/2.a94b31b9.chunk.css.map": "/roboaliens/static/css/2.a94b31b9.chunk.css.map",
+    "static/css/main.be3f1e37.chunk.css.map": "/roboaliens/static/css/main.be3f1e37.chunk.css.map",
+    "static/media/App.css": "/roboaliens/static/media/fr-title.411ef14d.woff"
   }
 }
